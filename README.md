@@ -1,2 +1,2 @@
-# Week-0---Ground-Work
+# Week 0 - Ground Work
 Mind Preparation
